@@ -1,0 +1,1 @@
+the command i used is pwd
