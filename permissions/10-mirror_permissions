@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod hola olleh
+chmod "$hola" "$olleh"
