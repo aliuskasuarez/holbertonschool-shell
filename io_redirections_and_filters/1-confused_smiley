@@ -1,2 +1,2 @@
 #!/bin/bash
-echo smiley
+smiley="(Ôo)"echo "smiley"
