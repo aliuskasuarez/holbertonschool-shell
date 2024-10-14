@@ -1,3 +1,3 @@
 #!/bin/bash
-
+FILE="hello" NEW_GROUP="school" chgrp school hello
 
