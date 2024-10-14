@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /holbertonschool-shell/permissions/hello _hello | chown -R vincent:staff .
