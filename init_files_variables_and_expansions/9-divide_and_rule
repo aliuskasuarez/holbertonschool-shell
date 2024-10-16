@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%f\n" "$(echo "$(printenv POWER) / $(printenv DIVIDE)" | bc -l)"
