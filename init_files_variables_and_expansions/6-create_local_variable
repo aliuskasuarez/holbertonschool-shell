@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="School" | printf "Local variable BEST is set to: %s\n" "$BEST"
+BEST="School" | echo "$BEST"
